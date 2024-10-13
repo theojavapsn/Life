@@ -1,29 +1,23 @@
-# Life
+# Life : Mon premier projet web
 
-**Description**
+**À propos de moi**
 
-Life est un projet qui [expliquer en quoi consiste votre projet].
+Salut ! Je suis [Ton prénom], et je suis en train de me lancer dans la programmation. C'est mon tout premier projet web, et je dois avouer que je suis un peu perdu ! Mais j'ai vraiment envie de créer mon propre site. 
 
-**Fonctionnalités principales**
+**Pourquoi ce projet ?**
 
-* [Fonctionnalité 1]
-* [Fonctionnalité 2]
-* [Fonctionnalité 3]
+J'ai décidé de créer ce projet pour [expliquer ta motivation : apprendre, partager une passion, etc.]. C'est l'occasion pour moi de découvrir les bases du développement web et de sortir de ma zone de confort.
 
-**Installation**
+**Ce que j'ai fait jusqu'à maintenant**
 
-1. [Première étape d'installation]
-2. [Deuxième étape d'installation]
-3. [Troisième étape d'installation]
+Pour l'instant, j'ai réussi à [lister les petites choses que tu as réussi à faire : créer une page HTML simple, ajouter une image, etc.]. Mais je sais qu'il me reste encore beaucoup à apprendre.
 
-**Utilisation**
+**Ce que je veux faire**
 
-Une fois installé, vous pouvez utiliser Life en [expliquer comment utiliser votre projet].
+Mon but est de créer un site web [décrire le type de site que tu veux créer : un blog, un portfolio, un site de jeux, etc.]. Je suis ouvert à toutes les suggestions et les conseils !
 
-**Contribution**
+**Comment m'aider ?**
 
-Si vous souhaitez contribuer à Life, vous pouvez [expliquer comment les gens peuvent contribuer].
+Si tu as quelques minutes à me consacrer, n'hésite pas à me donner des conseils ou à me montrer comment faire certaines choses. Je suis preneur de toute aide ! 
 
-**Licence**
-
-Ce projet est distribué sous la licence [indiquer la licence].
+**Merci d'avoir pris le temps de lire mon README.md !**
